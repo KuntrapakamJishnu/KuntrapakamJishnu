@@ -33,7 +33,6 @@ I am a passionate and curious learner aiming to become a **Software Engineer** w
 
 ## 🏆 Achievements
 
-- 🔹 **Research Intern at IIIT** with ₹3000/month stipend
 - 🔹 **Global Hackathon Semifinalist** for innovative AI solution
 - 🔹 Built prototypes using AI, NLP, and full-stack technologies
 
