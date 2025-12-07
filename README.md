@@ -11,18 +11,7 @@ I am a passionate and curious learner aiming to become a **Software Engineer** w
 - 🤖 Focus Areas: *Generative AI, NLP, Machine Learning, Retrieval-Augmented Generation (RAG)*
 - 🎯 Goal: Build intelligent systems and contribute to impactful tech products
 
----
 
-## 🏢 Internship Experience
-
-### 🌟 **Research Intern | IIIT (International Institute of Information Technology)**
-- 🔬 Gained hands-on experience in **Artificial Intelligence & Natural Language Processing (NLP)**
-- 💰 **Stipend:** ₹3000 per month
-- ✅ Worked on real-world AI applications and research methodologies
-
----
-
-## 🛠️ Skills & Technologies
 
 ### 🤖 **AI & Data**
 `Generative AI` • `RAG` • `Machine Learning` • `NLP` • `Python` • `Pandas`
