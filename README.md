@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Jishnu Kuntrapakam**
 🎓 Integrated M.Tech CS @ VIT-AP (CGPA: 8.61)  
-💻 Software Engineering | 🤖 AI & Applied ML | 🚀 Full-Stack Development  
+💻 Software Engineering 
 
 📍 Tirupati, Andhra Pradesh, India  
 📫 Contact: kjishnu973@gmail.com  
