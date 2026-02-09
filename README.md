@@ -20,50 +20,6 @@ My interests lie at the intersection of **Artificial Intelligence, backend syste
 
 ---
 
-## 🧑‍💻 Professional Experience
-
-### 🔹 **Research Development Engineer Intern**  
-**Indian Institute of Technology (IIT) Dhanbad** | Dec 2025 – Jan 2026  
-- Developed a **Python-based traffic intelligence platform** using **FastAPI & Streamlit**, integrating real-time datasets from **60+ monitored locations**, reducing data processing latency.
-- Improved **traffic prediction accuracy by 15% (MAPE reduction)** by implementing **LSTM and GRU models** over **10,000+ time-series records** stored in PostgreSQL.
-- Enabled **live traffic visualization** via **WebSocket-based streaming** and containerized the system using **Docker** for consistent deployment.
-
----
-
-### 🔹 **Software Development Engineer Intern**  
-**Aatral Technologies Pvt. Ltd., Bangalore** | Jun 2024 – Aug 2024  
-- Built and optimized **reusable frontend components** using **React.js, HTML, CSS, and JavaScript**, improving page load time by **~20%**.
-- Integrated **PostgreSQL** for structured data handling and optimized queries during internal testing.
-- Collaborated with a **5-member engineering team**, contributing to frontend performance optimization and smoother internal data flow.
-
----
-
-## 🛠️ Projects
-
-### 🛒 **Smart Cart AI**  
-*Flutter · Node.js · Express · MongoDB · Gemini API*  
-- Built an **AI-powered full-stack e-commerce platform** addressing inefficient product discovery for small retailers.
-- Implemented **user authentication, product listings, cart workflows**, and order handling for **50+ product records**.
-- Integrated **Gemini AI** for **personalized product recommendations** using REST APIs and scalable backend services.
-
----
-
-### 📦 **Track Wise App**  
-*Flutter · Firebase · Node.js · PostgreSQL*  
-- Developed a **real-time logistics tracking platform** with live geolocation updates.
-- Designed backend services using **Node.js & PostgreSQL**, integrated **Firebase Authentication**, and optimized user navigation.
-- Deployed on **Android & iOS**; **won 2 regional hackathons** at university level.
-
----
-
-### 📄 **Doc Query AI**  
-*Python · FastAPI · TensorFlow · RAG · React.js*  
-- Built an **AI-powered document question-answering system** using **Retrieval-Augmented Generation (RAG)**.
-- Implemented document preprocessing, chunking, and semantic retrieval over unstructured data.
-- Recognized as a **Finalist at Infosys Bangalore DC Program** (50+ teams).
-
----
-
 ## 🧠 Technical Skills
 
 ### **Languages**
@@ -80,14 +36,6 @@ My interests lie at the intersection of **Artificial Intelligence, backend syste
 
 ### **Core CS Concepts**
 `Data Structures & Algorithms` · `OOP` · `DBMS`
-
----
-
-## 🏆 Achievements
-
-- 🏅 **LeetCode Rating: 1315** (consistent contest performance)
-- 🥉 **3rd Place – VIT-AP ECS’23**, Smart Ration Distribution Management System
-- 🎯 **Infosys DC Program Finalist** (AI-based solution)
 
 ---
 
@@ -109,6 +57,16 @@ My interests lie at the intersection of **Artificial Intelligence, backend syste
 </p>
 
 ---
+
+
+## 🏆 Achievements
+
+- 🏅 **LeetCode Rating: 1315** (consistent contest performance)
+- 🥉 **3rd Place – VIT-AP ECS’23**, Smart Ration Distribution Management System
+- 🎯 **Infosys DC Program Finalist** (AI-based solution)
+
+---
+
 
 ## 🌱 Current Focus
 Building **AI-assisted systems and scalable backend architectures** with real-world deployment in mind.
